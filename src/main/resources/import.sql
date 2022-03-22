@@ -1,0 +1,12 @@
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Vitória Canela Lampreia','777.652.540-57', 1470.44 ,TIMESTAMP WITH TIME ZONE '2000-07-14T10:00:00Z',4);
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Joseph Ornelas Garrau','196.783.080-02', 8380.03 ,TIMESTAMP WITH TIME ZONE '2002-03-15T10:00:00Z',1);
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Davy Carlos Flávio','337.547.450-42', 1080.23 ,TIMESTAMP WITH TIME ZONE '1976-02-19T10:00:00Z',2);
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Filipa Linhares Xavier','627.370.340-00', 7290.88 ,TIMESTAMP WITH TIME ZONE '1993-06-20T10:00:00Z',4);
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Charlotte Ulhoa Antas','147.519.420-00', 8560.11 ,TIMESTAMP WITH TIME ZONE '1994-09-10T10:00:00Z',3);
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Soraya Sabrosa Oliveira','120.156.530-82', 1470.44 ,TIMESTAMP WITH TIME ZONE '1988-11-17T10:00:00Z',4);
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Jéssica Aleixo Boeira','630.696.920-95', 8380.03 ,TIMESTAMP WITH TIME ZONE '1972-12-14T10:00:00Z',1);
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Jaime Amaro Brum','112.257.790-73', 1080.23 ,TIMESTAMP WITH TIME ZONE '1989-07-19T10:00:00Z',2);
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Rui Peseiro Sítima','384.649.790-88', 7290.88 ,TIMESTAMP WITH TIME ZONE '1965-08-25T10:00:00Z',4);
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Gabriela Ginjeira Quinteiro','206.803.530-89', 8560.11 ,TIMESTAMP WITH TIME ZONE '1997-01-14T10:00:00Z',1);
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Mamadou Malafaia Foquiço','831.539.020-11', 5860.15 ,TIMESTAMP WITH TIME ZONE '1985-04-12T10:00:00Z',7);
+insert into tb_client (name, cpf, income, birth_Date, children) values ('Ludmila Teodoro Leão','667.990.380-70', 6585.33 , TIMESTAMP WITH TIME ZONE '1991-07-11T20:50:07.12345Z',3);
